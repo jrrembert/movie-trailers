@@ -4,6 +4,8 @@ A simple site to view and watch movie trailers
 Note: current site is only a POC with hard-coded data. Dynamic loading of 
       movie data will be built in once account access to the Rotten Tomatoes
       API is approved.
+      
+For now you can check out the site's WIP [here](https://jrrembert.github.io/movie-trailers).
 
 ### Installation
 
