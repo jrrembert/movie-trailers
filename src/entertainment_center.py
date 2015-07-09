@@ -40,7 +40,13 @@ if __name__ == '__main__':
     movie_data = movies.load_data(movies.movie_data_path)
     movie_list = movies.create_movie_list(movie_data)
 
+    # Sort movies in descending order by year.
+    sort_movies = sorted(
+        movie_list, 
+        key=lambda movie: movie.year, 
+        reverse=True)
+
     # Build HTML and open page
-    open_movies_page(movie_list)
+    open_movies_page(sort_movies)
 
 
