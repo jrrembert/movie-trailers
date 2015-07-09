@@ -1,27 +1,53 @@
 [
   {
-    "title": "Superman Lives",
-    "poster_image_url": "http:\/\/resizing.flixster.com\/4wO5bBcgO15zfM7neVyjevhlQZc=\/170x270\/dkpu1ddg7pbsk.cloudfront.net\/movie\/11\/19\/12\/11191223_ori.jpg",
-    "trailer_youtube_url": "https:\/\/www.youtube.com\/watch?v=7TYJyCCO8Dc&t=19"
+    "title": "Toy Story 3",
+    "poster_image_url": "http://resizing.flixster.com/Tv9f7mIJrCc--JvPXl60rMI3Pkw=/180x266/dkpu1ddg7pbsk.cloudfront.net/movie/11/13/43/11134356_ori.jpg",
+    "trailer_youtube_url": "https://www.youtube.com/watch?v=JcpWXaA2qeg",
+    "synopsis": "Pixar returns to their first success with Toy Story 3. The movie begins with Andy leaving for college and donating his beloved toys -- including Woody (Tom Hanks) and Buzz (Tim Allen) -- to a daycare. While the crew meets new friends, including Ken (Michael Keaton), they soon grow to hate their new surroundings and plan an escape. The film was directed by Lee Unkrich from a script co-authored by Little Miss Sunshine scribe Michael Arndt. ~ Perry Seibert, Rovi",
+    "critics_rating": "99",
+    "id": "1",
+    "mpaa_rating": "G",
+    "year": "2010"
   },
   {
-    "title": "Batman Dies",
+    "title": "Jurassic World",
     "poster_image_url": "http:\/\/resizing.flixster.com\/4wO5bBcgO15zfM7neVyjevhlQZc=\/170x270\/dkpu1ddg7pbsk.cloudfront.net\/movie\/11\/19\/12\/11191223_ori.jpg",
-    "trailer_youtube_url": "https:\/\/www.youtube.com\/watch?v=7TYJyCCO8Dc&t=19"
+    "trailer_youtube_url": "https://www.youtube.com/watch?v=RFinNxS5KN4",
+    "synopsis": "Steven Spielberg returns to executive produce the long-awaited next installment of his groundbreaking Jurassic Park series, Jurassic World. Colin Trevorrow directs the epic action-adventure based on characters created by Michael Crichton. The screenplay is by Rick Jaffa & Amanda Silver and Derek Connolly & Trevorrow, and the story is by Rick Jaffa & Amanda Silver. Frank Marshall and Patrick Crowley join the team as producers. (C) Universal",
+    "critics_rating": "71",
+    "id": "2",
+    "mpaa_rating": "PG-13",
+    "year": "2015"
   },
   {
-    "title": "Aquaman Swims",
-    "poster_image_url": "http:\/\/resizing.flixster.com\/4wO5bBcgO15zfM7neVyjevhlQZc=\/170x270\/dkpu1ddg7pbsk.cloudfront.net\/movie\/11\/19\/12\/11191223_ori.jpg",
-    "trailer_youtube_url": "https:\/\/www.youtube.com\/watch?v=7TYJyCCO8Dc&t=19"
+    "title": "Avengers: Age of Ultron",
+    "poster_image_url": "http://resizing.flixster.com/s8kIQtOhr36lGPkcUGCVeqVWw9Y=/180x270/dkpu1ddg7pbsk.cloudfront.net/movie/11/19/01/11190143_ori.jpg",
+    "trailer_youtube_url": "https://www.youtube.com/watch?v=MZoO8QVMxkk",
+    "synopsis": "When Tony Stark jumpstarts a dormant peacekeeping program, things go awry and Earth's Mightiest Heroes, including Iron Man, Captain America, Thor, The Incredible Hulk, Black Widow and Hawkeye, are put to the ultimate test as they battle to save the planet from destruction at the hands of the villainous Ultron.",
+    "critics_rating": "74",
+    "id": "3",
+    "mpaa_rating": "PG-13",
+    "year": "2015"
   },
   {
-    "title": "Wonder Woman Wonders",
-    "poster_image_url": "http:\/\/resizing.flixster.com\/4wO5bBcgO15zfM7neVyjevhlQZc=\/170x270\/dkpu1ddg7pbsk.cloudfront.net\/movie\/11\/19\/12\/11191223_ori.jpg",
-    "trailer_youtube_url": "https:\/\/www.youtube.com\/watch?v=7TYJyCCO8Dc&t=19"
+    "title": "Superman Returns",
+    "poster_image_url": "http://resizing.flixster.com/jxYV0tzA4f2_BD9lSeOHw56i-64=/180x267/dkpu1ddg7pbsk.cloudfront.net/movie/45/20/452092_ori.jpg",
+    "trailer_youtube_url": "https://www.youtube.com/watch?v=bRqAUqAFhNw",
+    "synopsis": "",
+    "critics_rating": "76",
+    "id": "4",
+    "mpaa_rating": "PG-13",
+    "year": "2006"
   },
   {
-    "title": "The Flash Flashes",
-    "poster_image_url": "http:\/\/resizing.flixster.com\/4wO5bBcgO15zfM7neVyjevhlQZc=\/170x270\/dkpu1ddg7pbsk.cloudfront.net\/movie\/11\/19\/12\/11191223_ori.jpg",
-    "trailer_youtube_url": "https:\/\/www.youtube.com\/watch?v=7TYJyCCO8Dc&t=19"
+    "title": "John Wick",
+    "poster_image_url": "http://resizing.flixster.com/Z0HG7UDbVHccDQvKpnxd-cqXRNA=/180x270/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/08/11180842_ori.jpg",
+    "trailer_youtube_url": "https://www.youtube.com/watch?v=C0BMx-qxsP4",
+    "synopsis": "An ex-hitman comes out of retirement to track down the gangsters that took everything from him. With New York City as his bullet-riddled playground, JOHN WICK (Keanu Reeves) is a fresh and stylized take on the \"assassin genre\". (C) Lionsgate",
+    "critics_rating": "85",
+    "id": "5",
+    "mpaa_rating": "R",
+    "year": "2014"
+
   }
 ]

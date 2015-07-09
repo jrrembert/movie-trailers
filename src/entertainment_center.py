@@ -6,8 +6,8 @@ from media import Movie
 from fresh_tomatoes import create_movie_tiles_content, open_movies_page
 
 
-movie_data_path = 
-    os.path.join(os.path.dirname(__file__), '../data/movies.json')
+movie_data_path = os.path.join(
+    os.path.dirname(__file__),'../data/movies.json')
 with open(movie_data_path, 'r') as f:
     movie_data = json.load(f)
 
