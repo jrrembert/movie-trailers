@@ -6,7 +6,7 @@ from media import Movie
 from fresh_tomatoes import create_movie_tiles_content, open_movies_page
 
 
-class EntertainmentCenter():
+class EntertainmentCenter(object):
     """
     Loads movie data and builds a list of Movie objects.
     """
@@ -41,10 +41,9 @@ if __name__ == '__main__':
     movie_list = movies.create_movie_list(movie_data)
 
     # Sort movies in descending order by year.
-    sort_movies = sorted(
-        movie_list, 
-        key=lambda movie: movie.year, 
-        reverse=True)
+    sort_movies = sorted(movie_list, 
+                         key=lambda movie: movie.year, 
+                         reverse=True)
 
     # Build HTML and open page
     open_movies_page(sort_movies)
