@@ -156,8 +156,10 @@ def create_movie_tiles_content(movies):
 
 def open_movies_page(movies):
   # Create or overwrite the output file
-  page_path = os.path.join(os.path.dirname(__file__), '../static/')
-  output_file = open(page_path + 'fresh_tomatoes.html', 'w')
+  page_path = os.path.join(os.path.dirname(__file__), '..')
+  # We're writing to a different location/file, because we're 
+  # on our gh-pages branch
+  output_file = open(page_path + 'index.html', 'w')
 
   # Replace the placeholder for the movie tiles with the actual dynamically generated content
   rendered_content = main_page_content.format(movie_tiles=create_movie_tiles_content(movies))
