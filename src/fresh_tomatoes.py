@@ -35,7 +35,8 @@ main_page_head = '''
         .movie-tile {
             margin-bottom: 20px;
             padding-top: 20px;
-            height: 100%
+            height: 100%;
+            overflow: scroll;
         }
 
         .movie-tile:hover {

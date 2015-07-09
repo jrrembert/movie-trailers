@@ -42,7 +42,7 @@ if __name__ == '__main__':
 
     # Sort movies in descending order by year.
     sort_movies = sorted(movie_list, 
-                         key=lambda movie: movie.year, 
+                         key=lambda movie: movie.year,
                          reverse=True)
 
     # Build HTML and open page
