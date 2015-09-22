@@ -7,6 +7,8 @@ Note: current site is only a POC with hard-coded data. Dynamic loading of
       
 For now you can check out the site's WIP [here](https://jrrembert.github.io/movie-trailers).
 
+**9/22/2015 Update: Access to RT API denied so it doesn't appear I'll be doing too much with this in the near future.**
+
 ### Installation
 
 Pretty simple assuming you have Python installed:
